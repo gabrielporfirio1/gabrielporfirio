@@ -1,6 +1,6 @@
 ## bom dia, boa tarde, boa noite. Aqui é o Gabriel Porfirio
 
-- 🥸 Aluno do cedup Abilio Paulo no curso técnico de informática.
+- 📖 Aluno do cedup Abilio Paulo no curso técnico de informática.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielporfirio&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=patohomonimo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,7 +16,7 @@
 
   <img align="center" alt="github" height="30" width="40"  src="https://devicon-website.vercel.app/api/github/original.svg"></img>
 
-  
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 </div>
  <br><br>
