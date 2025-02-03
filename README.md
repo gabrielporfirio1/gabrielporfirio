@@ -3,7 +3,7 @@
 - 🥸 Aluno do cedup Abilio Paulo no curso técnico de informática.
 - 💻 Perfil destinado às minhas aulas de Linguagem de Programação, Lógica de programação e Banco de dados.
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patohomonimo&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielporfirio&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=patohomonimo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
